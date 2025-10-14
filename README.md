@@ -6,8 +6,8 @@
 
 Detailed description
 
-![Running Calcualtor]()
+![Running Calculator]()
 
 * [Windows EXE]()
 * [MacOSX]()
-* [Source Code2]()
+* [Source Code]()
