@@ -9,5 +9,5 @@ Detailed description
 ![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows EXE]()
-* [MacOSX]()
+* [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/macos-aarch64.zip)
 * [Source Code]()
