@@ -10,6 +10,6 @@
 
 ![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
 
-* [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/windows-amd64.zip)
+* [Windows EXE]([https://github.com/angieliu4/THEportfolio/blob/main/src/windows-amd64.zip](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip))
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/macos-aarch64.zip)
 * [Source Code](https://github.com/angieliu4/THEportfolio/tree/main/src/Calculator)
