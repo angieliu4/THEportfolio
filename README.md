@@ -8,6 +8,8 @@
   
   The display dynamically updates to show the current input or output value, adjusting the text size based on length for readability. The calculator supports both unary and binary operations, allows toggling the sign of numbers, and provides an “AC” button to reset all inputs. The layout is visually structured, using color coding to distinguish between different types of buttons, and hover effects are implemented to enhance user experience.
 
+  Made using Processing (a Java-based program).
+
 ![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
