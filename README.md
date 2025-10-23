@@ -2,7 +2,7 @@
 
 ## Projects for Term 1
 
-### Calcuclator (2025)
+### Calculator (2025)
 
   Created by Angie Liu on September 25, 2025, this is a fully interactive graphical calculator that features a clean and functional interface with a variety of mathematical operations. It includes all basic operations, and functions such as square root, natural logarithm, absolute value, and exponentiation. Users interact with the calculator by clicking on buttons to input numbers and select operations.
   
