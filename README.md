@@ -14,7 +14,7 @@
 
 ![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
 
-![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/Calculator%20UML.jpg)
+![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/CalculatorUML.jpg?raw=true)
 
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip)
