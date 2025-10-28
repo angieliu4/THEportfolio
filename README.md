@@ -12,7 +12,9 @@
 
   By combining visual design, interactivity, and computational logic, this calculator program effectively demonstrates how Processing can be used to create a polished and fully interactive digital calculator that closely mimics the look and functionality of a real handheld device.
 
-![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true) ![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/Calculator%20UML.png)
+![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
+
+![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/Calculator%20UML.png)
 
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip)
