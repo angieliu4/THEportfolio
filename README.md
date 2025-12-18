@@ -14,6 +14,8 @@
 
 ![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
 
+#### *UML*
+
 ![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/CalculatorUML.jpg?raw=true)
 
 #### *DOWNLOADS AND SOURCE CODE*
