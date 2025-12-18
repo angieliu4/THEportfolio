@@ -16,6 +16,8 @@
 
 ![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/CalculatorUML.jpg?raw=true)
 
+### *DOWNLOADS AND SOURCE CODE*
+
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/angieliu4/THEportfolio/tree/main/src/Calculator)
