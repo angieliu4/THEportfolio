@@ -2,7 +2,7 @@
 
 ## Projects for Term 1
 
-## *CALCULATOR (SEPTEMBER-OCTOBER 2025)*
+### *CALCULATOR (SEPTEMBER-OCTOBER 2025)*
 
   Made using Processing (a Java-based program).
 
@@ -16,7 +16,7 @@
 
 ![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/CalculatorUML.jpg?raw=true)
 
-### *DOWNLOADS AND SOURCE CODE*
+#### *DOWNLOADS AND SOURCE CODE*
 
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip)
