@@ -15,7 +15,7 @@
   #### *UML:*
   ![UMLPNG](https://github.com/angieliu4/THEportfolio/blob/main/images/classdiagram.png?raw=true)
 
-  #### *LINK TO DELARIUM GROUP REPOSITORY:*
+  ####*LINK TO DELARIUM GROUP REPOSITORY:*
   [DELARIUM Group REPO](https://github.com/ArtBlock404/GroupProjectT4)
 
   #### *SOURCE CODE AND DOWNLOADS:*
