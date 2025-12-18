@@ -1,8 +1,8 @@
-# Angie Liu's Programming Portfolio 2025-2026
+# *Angie Liu's Programming Portfolio 2025-2026*
 
 ## Projects for Term 1
 
-### Calculator (2025)
+### *Calculator (September-October 2025)*
 
   Made using Processing (a Java-based program).
 
