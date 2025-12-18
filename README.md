@@ -2,7 +2,7 @@
 
 ## Projects for Term 1
 
-### *Calculator (September-October 2025)*
+## *Calculator (September-October 2025)*
 
   Made using Processing (a Java-based program).
 
