@@ -2,7 +2,7 @@
 
 ---
 
-## Projects for Term 2*
+## *Projects for Term 2*
 
 ---
 
@@ -19,9 +19,11 @@
   [Group REPO](https://github.com/ArtBlock404/GroupProjectT4)
 
   #### *SOURCE CODE AND DOWNLOADS:*
-  *[]()
-  *[]()
-  *[Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/Delarium.pde)
+  * []()
+  * []()
+  * [Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/Delarium.pde)
+
+  ---
 
 ## *Projects for Term 1*
 
