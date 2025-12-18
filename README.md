@@ -23,3 +23,8 @@
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/angieliu4/THEportfolio/tree/main/src/Calculator)
+ ---
+
+### *COMPUTER TIMELINE (AUGUST 2025)*
+
+
