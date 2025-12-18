@@ -10,6 +10,8 @@
 
   Made using Processing (a Java-based program).
 
+  ![DelariumTitle](https://github.com/angieliu4/THEportfolio/blob/main/images/Title.png?raw=true)
+
   ![RunningDelarium](https://github.com/angieliu4/THEportfolio/blob/main/images/delarium.png?raw=true)
 
   #### *UML:*
