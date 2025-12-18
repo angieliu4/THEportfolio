@@ -27,4 +27,10 @@
 
 ### *COMPUTER TIMELINE (AUGUST 2025)*
 
+  Made using Processing (a Java-based program).
+
+  This project is an interactive computer timeline that visually presents key milestones in the history of computing from 1620 to 1961. A horizontal timeline spans the screen, with color-coded event boxes alternating above and below the line to improve readability. Each event represents an important historical computing device, such as the Slide Rule, Pascaline, Difference Engine, and early electronic calculators, along with the year and inventor.
+  
+  When the user hovers over an event, detailed descriptions appear at the bottom of the screen, explaining the invention’s purpose, origin, and significance. Decorative elements and consistent layout enhance clarity, while bold colors help distinguish each milestone. Overall, the project combines programming, visual design, and historical research to create an engaging and educational overview of early computer systems.
+
 
