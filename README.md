@@ -33,10 +33,10 @@
   
   When the user hovers over an event, detailed descriptions appear at the bottom of the screen, explaining the invention’s purpose, origin, and significance. Decorative elements and consistent layout enhance clarity, while bold colors help distinguish each milestone. Overall, the project combines programming, visual design, and historical research to create an engaging and educational overview of early computer systems.
 
-![RunningTimeline] (https://github.com/angieliu4/THEportfolio/blob/main/images/history.png?raw=true)
+![RunningTimeline](https://github.com/angieliu4/THEportfolio/blob/main/images/history.png?raw=true)
 
 #### *SOURCE CODE*
 
-[Souce Code] (https://github.com/angieliu4/THEportfolio/blob/main/src/ShapeGame/ShapeGame.pde)
+[Souce Code](https://github.com/angieliu4/THEportfolio/blob/main/src/ShapeGame/ShapeGame.pde)
 
 
