@@ -6,7 +6,22 @@
 
 ---
 
+### *DELARIUM (NOVEMBER-DECEMBER 2025)*
 
+  Made using Processing (a Java-based program).
+
+  ![RunningDelarium](https://github.com/angieliu4/THEportfolio/blob/main/images/delarium.png?raw=true)
+
+  #### *UML:*
+  ![UMLPNG](https://github.com/angieliu4/THEportfolio/blob/main/images/classdiagram.png?raw=true)
+
+  #### *LINK TO GROUP REPOSITORY:*
+  [Group REPO](https://github.com/ArtBlock404/GroupProjectT4)
+
+  #### *SOURCE CODE AND DOWNLOADS:*
+  *[]()
+  *[]()
+  *[Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/Delarium.pde)
 
 ## *Projects for Term 1*
 
@@ -36,7 +51,7 @@
   
  ---
 
-### *MAKING CARS*
+### *MAKING CARS (SEPTEMBER 2025)*
 
   Made using Processing (a Java-based program).
 
@@ -47,7 +62,7 @@
   
 ---
 
-### *GRADE SLIDER*
+### *GRADE SLIDER (SEPTEMBER 2025)*
 
   Made using Processing (a Java-based program).
 
