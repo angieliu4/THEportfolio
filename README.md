@@ -1,6 +1,16 @@
 # *Angie Liu's Programming Portfolio 2025-2026*
 
-## Projects for Term 1
+---
+
+## Projects for Term 2*
+
+---
+
+
+
+## *Projects for Term 1*
+
+---
 
 ### *CALCULATOR (SEPTEMBER-OCTOBER 2025)*
 
