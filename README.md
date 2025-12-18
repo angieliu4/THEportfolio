@@ -14,15 +14,40 @@
 
 ![Running Calculator](https://github.com/angieliu4/THEportfolio/blob/main/images/Calc.png?raw=true)
 
-#### *UML*
+#### *UML:*
 
 ![Calculator UML](https://github.com/angieliu4/THEportfolio/blob/main/images/CalculatorUML.jpg?raw=true)
 
-#### *DOWNLOADS AND SOURCE CODE*
+#### *DOWNLOADS AND SOURCE CODE:*
 
 * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/Calculator/macos-aarch64.zip)
 * [Source Code](https://github.com/angieliu4/THEportfolio/tree/main/src/Calculator)
+  
+ ---
+
+### *MAKING CARS*
+
+  Made using Processing (a Java-based program).
+
+![RunningCars](https://github.com/angieliu4/THEportfolio/blob/main/images/cars.png?raw=true)
+
+#### *SOURCE CODE:*
+[Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/MakingCars/MakingCars.pde)
+  
+---
+
+### *GRADE SLIDER*
+
+  Made using Processing (a Java-based program).
+
+  
+
+![RunningSlider](https://github.com/angieliu4/THEportfolio/blob/main/images/grade.png?raw=true)
+
+#### *SOURCE CODE:*
+[Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/Graphics_Grades_Assignment/Graphics_Grades_Assignment.pde)
+
  ---
 
 ### *COMPUTER TIMELINE (AUGUST 2025)*
@@ -35,8 +60,9 @@
 
 ![RunningTimeline](https://github.com/angieliu4/THEportfolio/blob/main/images/history.png?raw=true)
 
-#### *SOURCE CODE*
+#### *SOURCE CODE:*
 
 [Souce Code](https://github.com/angieliu4/THEportfolio/blob/main/src/ShapeGame/ShapeGame.pde)
+
 
 
