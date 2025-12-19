@@ -10,7 +10,9 @@
 
   Made using Processing (a Java-based program).
 
-  This project is a tile-based puzzle adventure game that features a full screen-management system, multiple handcrafted levels, and interactive mechanics such as pushable blocks, buttons, doors, hazards, and hidden passages. Players navigate a grid-based world using keyboard controls while solving increasingly complex spatial puzzles that require careful planning and observation. The game includes a polished UI with a main menu, settings, credits, pause, and death screens, along with custom pixel-art graphics and sound visual feedback. Levels are loaded dynamically through structured setup functions, allowing smooth progression and varied challenges, while clear on-screen prompts guide the player’s objectives. Overall, the game emphasizes thoughtful level design, clean visual presentation, and cohesive programming to create an engaging puzzle-solving experience.
+  This project is a tile-based puzzle adventure game that features a full screen-management system, multiple handcrafted levels, and interactive mechanics such as pushable blocks, buttons, doors, hazards, and hidden passages. Players navigate a grid-based world using keyboard controls while solving increasingly complex spatial puzzles that require careful planning and observation. The game includes a polished UI with a main menu, settings, credits, pause, and death screens, along with custom pixel-art graphics and sound visual feedback.
+  
+  Levels are loaded dynamically through structured setup functions, allowing smooth progression and varied challenges, while clear on-screen prompts guide the player’s objectives. Overall, the game emphasizes thoughtful level design, clean visual presentation, and cohesive programming to create an engaging puzzle-solving experience.
 
   ![DelariumTitle](https://github.com/angieliu4/THEportfolio/blob/main/images/Title.png?raw=true)
 
