@@ -65,6 +65,8 @@
 
   Made using Processing (a Java-based program).
 
+  This project is a simple sketch that demonstrates object-oriented programming by creating and animating multiple car objects on screen. Each car is assigned a randomly generated color and is drawn within a 600×600 window, where it continuously moves and displays itself every frame. Two individual car instances are created alongside an array of many cars, showcasing both single-object and array-based object management. By repeatedly calling each car’s display() and move() methods inside the draw loop, the program creates a dynamic scene of colorful cars in motion, reinforcing core concepts such as classes, constructors, loops, and encapsulation.
+
 ![RunningCars](https://github.com/angieliu4/THEportfolio/blob/main/images/cars.png?raw=true)
 
 #### *SOURCE CODE:*
@@ -76,7 +78,7 @@
 
   Made using Processing (a Java-based program).
 
-  
+  This is an interactive grade conversion program that visually maps numerical GPA values to corresponding letter grades. A horizontal line represents the grading scale, with evenly spaced tick marks and labels, while a small ellipse follows the user’s mouse position to indicate the current grade value. As the mouse moves, the program dynamically calculates and displays the appropriate letter grade using a conditional function, providing immediate visual feedback. The sketch combines simple graphics, user interaction, and logical decision-making to clearly demonstrate how numerical grades translate into letter grades in an engaging and easy-to-understand way.
 
 ![RunningSlider](https://github.com/angieliu4/THEportfolio/blob/main/images/grade.png?raw=true)
 
