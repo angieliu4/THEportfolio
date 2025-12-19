@@ -29,6 +29,7 @@
   #### *SOURCE CODE AND DOWNLOADS:*
   * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/windows-amd64.zip)
   * [LINUX](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/linux-amd64.zip)
+  * [MacOSX](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/macos-aarch64.zip)
   * [Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/Delarium.pde)
 
   ---
