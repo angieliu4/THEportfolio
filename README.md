@@ -23,7 +23,8 @@
   [DELARIUM Group REPO](https://github.com/ArtBlock404/GroupProjectT4)
 
   #### *SOURCE CODE AND DOWNLOADS:*
-  * [Windows EXE]()
+  * [Windows EXE](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/windows-amd64.zip)
+  * [LINUX](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/linux-amd64.zip)
   * [Source Code](https://github.com/angieliu4/THEportfolio/blob/main/src/PuzzleGame/Delarium.pde)
 
   ---
